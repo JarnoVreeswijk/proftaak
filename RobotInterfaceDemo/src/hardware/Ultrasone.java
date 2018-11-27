@@ -27,5 +27,9 @@ public class Ultrasone implements Updatable {
 
 	}
 
+	public void testPrint() {
+        System.out.println("a thing");
+    }
+
 
 }
