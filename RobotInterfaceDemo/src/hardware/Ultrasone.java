@@ -30,4 +30,12 @@ public class Ultrasone implements Updatable {
     public void testerino() {
         System.out.println("test");
     }
+
+    public void hey(int amount) {
+	    int i = 0;
+	    while (i < amount) {
+            System.out.println("hey");
+            i++
+        }
+    }
 }
