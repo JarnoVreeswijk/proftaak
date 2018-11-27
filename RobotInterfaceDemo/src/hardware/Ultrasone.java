@@ -38,4 +38,8 @@ public class Ultrasone implements Updatable {
             i++
         }
     }
+
+    private void test() {
+
+    }
 }
