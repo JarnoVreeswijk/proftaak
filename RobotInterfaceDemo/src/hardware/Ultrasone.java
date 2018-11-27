@@ -35,7 +35,7 @@ public class Ultrasone implements Updatable {
 	    int i = 0;
 	    while (i < amount) {
             System.out.println("hey");
-            i++
+            i++;
         }
     }
 
