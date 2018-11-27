@@ -3,7 +3,7 @@ package TI;
 /**
  * A simple timer class, to perform tasks at a certain frequency
  */
-public class Timer
+public class  Timer
 {
 	private int interval;
 	private long lasttick;
